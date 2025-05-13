@@ -152,6 +152,7 @@ While the current structure is well-organized, some potential improvements could
 * **Use clearer headings and subheadings**: Implement a more consistent and descriptive heading structure to facilitate navigation and understanding.
 
 Overall, the JoJo's Bizarre Adventure Wikipedia page provides a comprehensive and well-structured overview of the series, making it a valuable resource for fans and researchers alike. 
+```
 
 ## ⚠️ Important Note
 
