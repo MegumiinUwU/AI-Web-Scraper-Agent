@@ -2,6 +2,12 @@
 
 An intelligent web scraper agent that combines web scraping capabilities with AI-powered content analysis. This agent can scrape websites, process their content, and provide meaningful insights through multiple processing stages.
 
+
+<div align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:MegumiinUwU-AI-Web-Scraper-Agent?theme=rule34" alt="visitor count" /></a>
+</div>
+
+
 ## 🌟 Features
 
 - **Web Scraping**: Automatically scrapes and cleans content from any provided URL
