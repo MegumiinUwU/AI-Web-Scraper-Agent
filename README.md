@@ -4,7 +4,7 @@ An intelligent web scraper agent that combines web scraping capabilities with AI
 
 
 <div align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:MegumiinUwU-AI-Web-Scraper-Agents?theme=rule34" alt="visitor count" /></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:MegumiinUwU-AI-Web-Scra?theme=rule34" alt="visitor count" /></a>
 </div>
 
 
